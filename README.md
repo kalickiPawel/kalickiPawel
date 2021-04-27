@@ -1,5 +1,7 @@
 ### Hi there, I'm Paweł Kalicki! 👋
 
+<img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" width="200">
+      
 - 🔭 I’m currently working on Master Thesis.
 - 🌱 I’m currently learning DevOps and Azure.
 - 🤔 I’m looking for help with time/tasks planning.
